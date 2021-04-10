@@ -1,0 +1,7 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP KY40_Rotary_Encoder_Module
+D Rotary encoder, dual channel, incremental quadrate outputs, with switch
+K rotary switch encoder switch push button
+F ~
+$ENDCMP

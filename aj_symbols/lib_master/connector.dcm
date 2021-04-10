@@ -1,0 +1,115 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CONNECTOR_USB
+D USB Connector
+K USB Connector
+$ENDCMP
+#
+$CMP CONNECTOR_USB_TYPE_A
+D USB Connector
+K USB Connector
+$ENDCMP
+#
+$CMP CONNECTOR_USB_TYPE_A_MALE
+D USB Connector
+K USB usb CONNECTOR connector
+$ENDCMP
+#
+$CMP MDM_9W_RA
+D MDM 9-Pin Connector; Right-Angle
+K MDM
+$ENDCMP
+#
+$CMP MOLEX_USB_MICRO
+D USB micro connector
+K USB  OTG  Micro
+F http://www.molex.com/pdm_docs/sd/1051330001_sd.pdf
+$ENDCMP
+#
+$CMP Molex_0475710001
+D Micro SD Card Holder
+K SD, Micro SD, uSD
+$ENDCMP
+#
+$CMP SMA_Edge
+D SMA Straight Edge Connector Jack, 50 Ohm, SMD
+K SMA, Edge, RF
+$ENDCMP
+#
+$CMP SMA_Straight
+D SMA Straight Straight Connector, 50 Ohm, Through-hole
+K SMA, Straight, RF
+$ENDCMP
+#
+$CMP SOLDER_LINK
+D Solder Link
+K Solder Link
+$ENDCMP
+#
+$CMP SOLDER_LINK_NC
+D Solder Link
+K Solder Link
+$ENDCMP
+#
+$CMP SOLDER_LINK_NO
+D Solder Link
+K Solder Link
+$ENDCMP
+#
+$CMP USB_OTG
+D USB micro connector, vertical
+K USB OTG Micro
+F http://www.molex.com/pdm_docs/sd/1051330001_sd.pdf
+$ENDCMP
+#
+$CMP WIRE_PAD
+D Wire Termination Pad; 20AWG
+$ENDCMP
+#
+$CMP WIRE_PAD_12AWG
+D Wire Termination Pad; 20AWG
+$ENDCMP
+#
+$CMP WIRE_PAD_14AWG
+D Wire Termination Pad; 20AWG
+$ENDCMP
+#
+$CMP WIRE_PAD_16AWG
+D Wire Termination Pad; 20AWG
+$ENDCMP
+#
+$CMP WIRE_PAD_18AWG
+D Wire Termination Pad; 20AWG
+$ENDCMP
+#
+$CMP WIRE_PAD_20AWG
+D Wire Termination Pad; 20AWG
+$ENDCMP
+#
+$CMP WIRE_PAD_22AWG
+D Wire Termination Pad; 20AWG
+$ENDCMP
+#
+$CMP WIRE_PAD_24AWG
+D Wire Termination Pad; 20AWG
+$ENDCMP
+#
+$CMP WIRE_PAD_26AWG
+D Wire Termination Pad; 20AWG
+$ENDCMP
+#
+$CMP WIRE_PAD_28AWG
+D Wire Termination Pad; 20AWG
+$ENDCMP
+#
+$CMP WIRE_PAD_30AWG
+D Wire Termination Pad; 20AWG
+$ENDCMP
+#
+$CMP u.FL
+D u.FL Straight Connector Jack, 50 Ohm, SMD
+K u.FL, RF
+F Z:\Engineering\Datasheets\Connectors\RF\Molex_0734120110.pdf
+$ENDCMP
+#
+#End Doc Library

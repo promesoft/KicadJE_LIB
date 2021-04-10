@@ -1,0 +1,18 @@
+(module ANTENNA_HELICAL_RA (layer F.Cu) (tedit 565FA7B5)
+  (fp_text reference AE1 (at 0 1.905) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value Antenna (at 0 1.778) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_line (start 1.016 1.016) (end 1.016 -3.81) (layer F.SilkS) (width 0.15))
+  (fp_line (start -1.016 -3.81) (end -1.016 1.016) (layer F.SilkS) (width 0.15))
+  (fp_line (start -1.016 1.016) (end 1.016 1.016) (layer F.SilkS) (width 0.15))
+  (pad 1 thru_hole circle (at 0 0) (size 1.7018 1.7018) (drill 0.9652) (layers *.Cu *.Mask))
+  (pad 1 smd rect (at 0 -1.524) (size 1.7018 4.7752) (layers F.Cu F.Mask))
+  (model C:/Engineering/KiCAD_Libraries/3D/Discrete/Passive/Antenna/VRML/SW868-TH13.WRL
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
+)

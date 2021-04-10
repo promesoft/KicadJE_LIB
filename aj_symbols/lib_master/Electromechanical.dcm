@@ -1,0 +1,68 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP FSMJ
+F C:/Engineering/Datasheets/Electromechanical/Switches/Tyco_FSM-Series.pdf
+$ENDCMP
+#
+$CMP FSMJSMA
+F C:/Engineering/Datasheets/Electromechanical/Switches/Tyco_FSM-Series.pdf
+$ENDCMP
+#
+$CMP FSMSM
+F C:/Engineering/Datasheets/Electromechanical/Switches/Tyco_FSM-Series.pdf
+$ENDCMP
+#
+$CMP PTS810
+D Microminiature SMT Top Actuated Push Switch
+K Pushbutton, Button, Switch, Momentary
+F C:/Engineering/Datasheets/Electromechanical/Switches/C&K_PTS810.pdf
+$ENDCMP
+#
+$CMP RELAY_DPDT_IM03G
+D LATCHING RELAY TELECOM DPDT 5A 4.5V
+K LATCHING RELAY TELECOM DPDT 5A 4.5V
+$ENDCMP
+#
+$CMP RELAY_SPDT_T90N5D1
+D Potter & Brumfield T90-Series
+K Relay T90 SPDT Form C form
+$ENDCMP
+#
+$CMP RELAY_SPDT_T9AS5
+D Potter & Brumfield T9A-Series
+K Relay T9A SPDT Form C form
+$ENDCMP
+#
+$CMP RELAY_SPDT_T9AS5D1
+D Potter & Brumfield T9A-Series
+K Relay T9A SPDT Form C form
+$ENDCMP
+#
+$CMP RELAY_SPDT_T9AS5D2
+D Potter & Brumfield T9A-Series
+K Relay T9A SPDT Form C form
+$ENDCMP
+#
+$CMP RELAY_SPST_T90N1D1
+D Potter & Brumfield T90-Series open-frame relay
+$ENDCMP
+#
+$CMP RELAY_SPST_T9AS1D2
+D Potter & Brumfield T9A-Series
+K Relay T9A SPDT Form C form
+F Z:/Engineering/Datasheets/Electromechanical/Relays/Potter&Brumfield_T9A-Series.pdf
+$ENDCMP
+#
+$CMP SWITCH_EVQP7A
+D Panasonic Electronic Components EVQ-P7A01P
+K Switch Tactile Push, Right Angle
+F https://www3.panasonic.biz/ac/e_download/control/switch/light-touch/catalog/sw_lt_eng_3529s_side.pdf
+$ENDCMP
+#
+$CMP SWITCH_TL3330
+D E-Switch TL3330
+K Switch Tactile Push, Right Angle
+F https://www.e-switch.com/system/asset/product_line/data_sheet/163/TL3330.pdf
+$ENDCMP
+#
+#End Doc Library

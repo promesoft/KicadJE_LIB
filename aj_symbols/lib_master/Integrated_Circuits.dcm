@@ -1,0 +1,230 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 74LS125
+D Quad buffer 3 State out
+K TTL buffer 3State
+$ENDCMP
+#
+$CMP 74LS241
+D Remote 8-bit I/O expander for I2C
+K IO Expander
+F C:/Engineering/Datasheets/Integrated_Circuits/Serial_IO_Expanders/NXP_Semiconductors_PCF8574_PCF8574A.pdf
+$ENDCMP
+#
+$CMP AS1115
+D Serial-interfaced 6-digit LED controller with keyscan
+$ENDCMP
+#
+$CMP AS1115-BQFT
+D 64 LEDs, I²C Interfaced LED Driver with Keyscan
+$ENDCMP
+#
+$CMP AS1115-BSST
+D 64 LEDs, I²C Interfaced LED Driver with Keyscan
+$ENDCMP
+#
+$CMP AT24CM01-SO8
+D I2C-Compatible (2-wire) Serial EEPROM; 1-Mbit (131,072 x 8)
+K EEPROM
+F C:/Engineering/Datasheets/Memory/Atmel_AT24CM01.pdf
+$ENDCMP
+#
+$CMP CAT24M01-SO8
+D 1 Mb I2C CMOS Serial EEPROM
+K EEPROM
+F C:/Engineering/Datasheets/Memory/On_Semiconductor_CAT24M01.PDF
+$ENDCMP
+#
+$CMP CD40109B
+D Quad buffer 3 State out
+K TTL buffer 3State
+$ENDCMP
+#
+$CMP CD4504
+D CMOS Hex Voltage-Level Shifter for TTL-to-CMOS or CMOS-to-CMOS Operation
+K Voltage Translator, Hex Buffer, Level Shifter, Logic
+F C:/Engineering/Datasheets/Integrated_Circuits/Voltage Translator/TI_CD4504B.pdf
+$ENDCMP
+#
+$CMP CD74HC4050
+D High-Speed CMOS Logic Hex Buffer
+K Voltage Translator, Hex Buffer, Level Shifter, Logic
+F C:/Engineering/Datasheets/Integrated_Circuits/Voltage Translator/TI_CD74HC4050.pdf
+$ENDCMP
+#
+$CMP DIO6605B
+D 5V Output, High-Efficiency 1.2MHz, Synchronous Step-Up Converter
+K DIO6605B, DC-DC, Step-Up
+F http://www.mouser.com/ds/2/802/dioo_06292016_DIO6605B%20V0%202-964621.pdf
+$ENDCMP
+#
+$CMP FL127
+D 128-Mbit serial SPI bus Flash
+K Flash
+F Z:/Engineering/Datasheets/Memory/Flash/Spansion_S25FL127S.pdf
+$ENDCMP
+#
+$CMP FT230XQ
+D USB to serial converter
+K UART USB Serial
+$ENDCMP
+#
+$CMP M24M01-SO8
+D 1-Mbit serial I2C bus EEPROM
+K EEPROM
+F C:/Engineering/Datasheets/Memory/ST_Micro_M24M01.pdf
+$ENDCMP
+#
+$CMP M24M02-DR-SO8
+D 2-Mbit serial I2C bus EEPROM
+K EEPROM
+F C:\Engineering\Datasheets\Memory\ST_Micro_M24M02-DR.pdf
+$ENDCMP
+#
+$CMP M95M02-DR-SO8
+D 2-Mbit serial SPI bus EEPROM
+K EEPROM
+F C:\Engineering\Datasheets\Memory\ST_Micro_M95M02-DR.pdf
+$ENDCMP
+#
+$CMP MCP1700
+D MCP1754ST, Fixed 150mA Low Dropout Voltage Regulator, Positive
+K REGULATOR LDO
+F http://ww1.microchip.com/downloads/en/DeviceDoc/20001826C.pdf
+$ENDCMP
+#
+$CMP MCP1754ST-1802E/MB
+D MCP1754ST, Fixed 150mA Low Dropout Voltage Regulator, Positive
+K REGULATOR LDO
+F http://ww1.microchip.com/downloads/en/DeviceDoc/20002276C.pdf
+$ENDCMP
+#
+$CMP MCP1754ST-3302E/MB
+D MCP1700 150 mA, 16V, High-Performance LDO
+K REGULATOR LDO
+F http://ww1.microchip.com/downloads/en/DeviceDoc/20001826C.pdf
+$ENDCMP
+#
+$CMP MCP23008E/ML
+D 8-Bit I/O Expander with Serial Interface
+K IO Expander
+F C:/Engineering/Datasheets/Integrated_Circuits/Serial_IO_Expanders/Microchip_MCP23S08_MCP23008.pdf
+$ENDCMP
+#
+$CMP MCP23008E/SO
+D 8-Bit I/O Expander with Serial Interface
+K IO Expander
+F C:/Engineering/Datasheets/Integrated_Circuits/Serial_IO_Expanders/Microchip_MCP23S08_MCP23008.pdf
+$ENDCMP
+#
+$CMP MCP23008E/SS
+D 8-Bit I/O Expander with Serial Interface
+K IO Expander
+F C:/Engineering/Datasheets/Integrated_Circuits/Serial_IO_Expanders/Microchip_MCP23S08_MCP23008.pdf
+$ENDCMP
+#
+$CMP MCP23017E/ML
+D 64 LEDs, I²C Interfaced LED Driver with Keyscan
+$ENDCMP
+#
+$CMP MCP23017E/SP/SO/SS
+D Serial-interfaced 6-digit LED controller with keyscan
+$ENDCMP
+#
+$CMP MCP23S08E/SO
+D 8-Bit I/O Expander with Serial Interface
+K IO Expander
+F C:/Engineering/Datasheets/Integrated_Circuits/Serial_IO_Expanders/Microchip_MCP23S08_MCP23008.pdf
+$ENDCMP
+#
+$CMP MCP23S17E/SP/SO/SS
+D Serial-interfaced 6-digit LED controller with keyscan
+$ENDCMP
+#
+$CMP MCP7940M-I/MNY
+D Low-Cost I2C Real-Time Clock with SRAM
+K RTC, Real Time Clock, Calendar
+F C:/Engineering/Datasheets/Integrated_Circuits/RTC/Microchip_MCP7940M.pdf
+$ENDCMP
+#
+$CMP MCP7940M-I/MS
+D Low-Cost I2C Real-Time Clock with SRAM
+K RTC, Real Time Clock, Calendar
+F C:/Engineering/Datasheets/Integrated_Circuits/RTC/Microchip_MCP7940M.pdf
+$ENDCMP
+#
+$CMP MCP7940M-I/P
+D Low-Cost I2C Real-Time Clock with SRAM
+K RTC, Real Time Clock, Calendar
+F C:/Engineering/Datasheets/Integrated_Circuits/RTC/Microchip_MCP7940M.pdf
+$ENDCMP
+#
+$CMP MCP7940M-I/SN
+D Low-Cost I2C Real-Time Clock with SRAM
+K RTC, Real Time Clock, Calendar
+F C:/Engineering/Datasheets/Integrated_Circuits/RTC/Microchip_MCP7940M.pdf
+$ENDCMP
+#
+$CMP MCP7940M-I/ST
+D Low-Cost I2C Real-Time Clock with SRAM
+K RTC, Real Time Clock, Calendar
+F C:/Engineering/Datasheets/Integrated_Circuits/RTC/Microchip_MCP7940M.pdf
+$ENDCMP
+#
+$CMP MCP9800
+D 2-Wire (I2C) High-Accuracy Temperature Sensor
+K I2C, Temperature, Sensor
+F C:/Engineering/Datasheets/Sensors/Temperature/Microchip_MCP9800.pdf
+$ENDCMP
+#
+$CMP MCP9801
+D 2-Wire (I2C) High-Accuracy Temperature Sensor
+K I2C, Temperature, Sensor
+F C:/Engineering/Datasheets/Sensors/Temperature/Microchip_MCP9800.pdf
+$ENDCMP
+#
+$CMP MCP9802
+D 2-Wire (I2C) High-Accuracy Temperature Sensor (w/Serial Bus Timeout)
+K I2C, Temperature, Sensor
+F C:/Engineering/Datasheets/Sensors/Temperature/Microchip_MCP9800.pdf
+$ENDCMP
+#
+$CMP MCP9803
+D 2-Wire (I2C) High-Accuracy Temperature Sensor (w/Serial Bus Timeout)
+K I2C, Temperature, Sensor
+F C:/Engineering/Datasheets/Sensors/Temperature/Microchip_MCP9800.pdf
+$ENDCMP
+#
+$CMP MIC2172
+D 100kHz SMPS current-mode controller with internal 65V 1.25A power switches.
+K Boost, Switching Regulator, SEPIC
+F Z:/Engineering/Datasheets/Integrated_Circuits/Switching_Regulators/Micrel_MIC2172.pdf
+$ENDCMP
+#
+$CMP MIC3172
+D 100kHz SMPS current-mode controller with internal 65V 1.25A power switches.
+K Boost, Switching Regulator, SEPIC
+F Z:/Engineering/Datasheets/Integrated_Circuits/Switching_Regulators/Micrel_MIC2172.pdf
+$ENDCMP
+#
+$CMP PCF8574T
+D Remote 8-bit I/O expander for I2C
+K IO Expander
+F C:/Engineering/Datasheets/Integrated_Circuits/Serial_IO_Expanders/NXP_Semiconductors_PCF8574_PCF8574A.pdf
+$ENDCMP
+#
+$CMP STLED316S
+D Serial-interfaced 6-digit LED controller with keyscan
+$ENDCMP
+#
+$CMP STLED325
+D I²C interfaced, advanced LED controller/driver with keyscan, standby power management and real time clock (RTC)
+$ENDCMP
+#
+$CMP Si4463
+D HIGH-PERFORMANCE, LOW-CURRENT TRANSCEIVER
+K Si4463, 915Mhz, ISM
+F Z:/Engineering/Datasheets/Integrated_Circuits/RF/Si4463/Si4463-61-60-C.pdf
+$ENDCMP
+#
+#End Doc Library

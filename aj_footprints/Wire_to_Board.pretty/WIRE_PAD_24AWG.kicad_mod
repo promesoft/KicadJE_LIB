@@ -1,0 +1,9 @@
+(module WIRE_PAD_24AWG (layer F.Cu) (tedit 584E05AC)
+  (fp_text reference W1 (at 1.8 0) (layer F.SilkS)
+    (effects (font (size 0.762 0.762) (thickness 0.127)))
+  )
+  (fp_text value WIRE_PAD_24AWG (at 0 -1.778) (layer F.Fab) hide
+    (effects (font (size 0.762 0.762) (thickness 0.127)))
+  )
+  (pad 1 thru_hole circle (at 0 0) (size 1.2954 1.2954) (drill 0.7366) (layers *.Cu *.Mask))
+)

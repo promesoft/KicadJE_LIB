@@ -1,0 +1,20 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP OSTVN_1x2
+D Screw Terminal Block
+K Terminal Block, 100mil, 0.1, 2.54
+F Z:/Engineering/Datasheets/Terminal_Blocks/On-Shore_Technology_OSTVN.pdf
+$ENDCMP
+#
+$CMP OSTVN_1x3
+D Screw Terminal Block
+K Terminal Block, 100mil, 0.1, 2.54
+F Z:/Engineering/Datasheets/Terminal_Blocks/On-Shore_Technology_OSTVN.pdf
+$ENDCMP
+#
+$CMP PTSA_1985250
+D Phoenix Contact COMBICON compact PTSA-series
+K COMBICON, PTSA, Spring-Cage, Terminal Block, 3.5mm
+$ENDCMP
+#
+#End Doc Library

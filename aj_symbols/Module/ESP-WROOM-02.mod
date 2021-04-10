@@ -1,0 +1,314 @@
+PCBNEW-LibModule-V1  
+# encoding utf-8
+Units mm
+$INDEX
+FRONT-FACE
+BACK-FACE
+$EndINDEX
+$MODULE FRONT-FACE
+Po 0 0 0 15 00000000 00000000 ~~
+Li FRONT-FACE
+Cd Front Face Top
+Sc 00000000
+At SMD
+Op 0 0 0
+.SolderMask 0
+.SolderPaste 0
+T0 -5.73493 -13.1408 1.00349 1.00349 0 0.05 N V 21 "FRONT-FACE"
+T1 -1.91183 -2.81804 0.802857 0.802857 0 0.05 N V 21 "VAL**"
+DS -9 8 9 8 0.2032 21
+DS 9 8 9 -12 0.2032 21
+DS 9 -12 -9 -12 0.2032 21
+DS -9 -12 -9 8 0.2032 21
+DS -7.62 -7.3025 -7.62 -11.1125 0.4064 24
+DS -7.62 -11.1125 -5.3975 -11.1125 0.4064 24
+DS -5.3975 -11.1125 -5.3975 -8.5725 0.4064 24
+DS -5.3975 -8.5725 -3.175 -8.5725 0.4064 24
+DS -3.175 -8.5725 -3.175 -11.1125 0.4064 24
+DS -3.175 -11.1125 -0.9525 -11.1125 0.4064 24
+DS -0.9525 -11.1125 -0.9525 -8.5725 0.4064 24
+DS -0.9525 -8.5725 1.27 -8.5725 0.4064 24
+DS 1.27 -8.5725 1.27 -11.1125 0.4064 24
+DS 1.27 -11.1125 3.4925 -11.1125 0.4064 24
+DS 3.4925 -11.1125 5.715 -11.1125 0.4064 24
+DS 5.715 -11.1125 5.715 -6.0325 0.4064 24
+DS 3.4925 -11.1125 3.4925 -6.0325 0.4064 24
+DS -7.62 7.3025 7.62 7.3025 0.127 24
+DS 7.62 7.3025 7.62 -5.08 0.127 24
+DS 7.62 -5.08 -7.62 -5.08 0.127 24
+DS -7.62 -5.08 -7.62 7.3025 0.127 24
+DC -6.0325 5.715 -5.3975 5.715 0.127 24
+DP 0 0 0 0 4 0.381 24
+Dl -1.27509 -0.9525
+Dl 4.445 -0.9525
+Dl 4.445 4.78162
+Dl -1.27509 4.78162
+$PAD
+Sh "1" R 1.485 0.9 0 0 0
+At SMD N 00888000
+.SolderMask 0
+Ne 0 ""
+Po -8.8925 -4.9
+$EndPAD
+$PAD
+Sh "2" R 1.485 0.9 0 0 0
+At SMD N 00888000
+.SolderMask 0
+Ne 0 ""
+Po -8.8925 -3.4
+$EndPAD
+$PAD
+Sh "3" R 1.485 0.9 0 0 0
+At SMD N 00888000
+.SolderMask 0
+Ne 0 ""
+Po -8.8925 -1.9
+$EndPAD
+$PAD
+Sh "4" R 1.485 0.9 0 0 0
+At SMD N 00888000
+.SolderMask 0
+Ne 0 ""
+Po -8.8925 -0.4
+$EndPAD
+$PAD
+Sh "5" R 1.485 0.9 0 0 0
+At SMD N 00888000
+.SolderMask 0
+Ne 0 ""
+Po -8.8925 1.1
+$EndPAD
+$PAD
+Sh "6" R 1.485 0.9 0 0 0
+At SMD N 00888000
+.SolderMask 0
+Ne 0 ""
+Po -8.8925 2.6
+$EndPAD
+$PAD
+Sh "7" R 1.485 0.9 0 0 0
+At SMD N 00888000
+.SolderMask 0
+Ne 0 ""
+Po -8.8925 4.1
+$EndPAD
+$PAD
+Sh "8" R 1.485 0.9 0 0 0
+At SMD N 00888000
+.SolderMask 0
+Ne 0 ""
+Po -8.8925 5.6
+$EndPAD
+$PAD
+Sh "9" R 1.485 0.9 0 0 0
+At SMD N 00888000
+.SolderMask 0
+Ne 0 ""
+Po -8.8925 7.1
+$EndPAD
+$PAD
+Sh "10" R 1.485 0.9 0 0 0
+At SMD N 00888000
+.SolderMask 0
+Ne 0 ""
+Po 8.8925 7.1
+$EndPAD
+$PAD
+Sh "11" R 1.485 0.9 0 0 0
+At SMD N 00888000
+.SolderMask 0
+Ne 0 ""
+Po 8.8925 5.6
+$EndPAD
+$PAD
+Sh "12" R 1.485 0.9 0 0 0
+At SMD N 00888000
+.SolderMask 0
+Ne 0 ""
+Po 8.8925 4.1
+$EndPAD
+$PAD
+Sh "13" R 1.485 0.9 0 0 0
+At SMD N 00888000
+.SolderMask 0
+Ne 0 ""
+Po 8.8925 2.6
+$EndPAD
+$PAD
+Sh "14" R 1.485 0.9 0 0 0
+At SMD N 00888000
+.SolderMask 0
+Ne 0 ""
+Po 8.8925 1.1
+$EndPAD
+$PAD
+Sh "15" R 1.485 0.9 0 0 0
+At SMD N 00888000
+.SolderMask 0
+Ne 0 ""
+Po 8.8925 -0.4
+$EndPAD
+$PAD
+Sh "16" R 1.485 0.9 0 0 0
+At SMD N 00888000
+.SolderMask 0
+Ne 0 ""
+Po 8.8925 -1.9
+$EndPAD
+$PAD
+Sh "17" R 1.485 0.9 0 0 0
+At SMD N 00888000
+.SolderMask 0
+Ne 0 ""
+Po 8.8925 -3.4
+$EndPAD
+$PAD
+Sh "18" R 1.485 0.9 0 0 0
+At SMD N 00888000
+.SolderMask 0
+Ne 0 ""
+Po 8.8925 -4.9
+$EndPAD
+$EndMODULE FRONT-FACE
+$MODULE BACK-FACE
+Po 0 0 0 15 00000000 00000000 ~~
+Li BACK-FACE
+Cd Back Face Top
+Sc 00000000
+At SMD
+Op 0 0 0
+.SolderMask 0
+.SolderPaste 0
+T0 -5.72923 -13.1276 1.00248 1.00248 0 0.05 N V 21 "BACK-FACE"
+T1 -3.18881 -0.269164 0.803478 0.803478 0 0.05 N V 21 "VAL**"
+DS -9 8 9 8 0.2032 21
+DS 9 8 9 -12 0.2032 21
+DS 9 -12 -9 -12 0.2032 21
+DS -9 -12 -9 8 0.2032 21
+$PAD
+Sh "1" R 0.9 0.85 0 0 0
+At SMD N 00888000
+.SolderMask 0
+Ne 0 ""
+Po 8.575 -4.9
+$EndPAD
+$PAD
+Sh "2" R 0.9 0.85 0 0 0
+At SMD N 00888000
+.SolderMask 0
+Ne 0 ""
+Po 8.575 -3.4
+$EndPAD
+$PAD
+Sh "3" R 0.9 0.85 0 0 0
+At SMD N 00888000
+.SolderMask 0
+Ne 0 ""
+Po 8.575 -1.9
+$EndPAD
+$PAD
+Sh "4" R 0.9 0.85 0 0 0
+At SMD N 00888000
+.SolderMask 0
+Ne 0 ""
+Po 8.575 -0.4
+$EndPAD
+$PAD
+Sh "5" R 0.9 0.85 0 0 0
+At SMD N 00888000
+.SolderMask 0
+Ne 0 ""
+Po 8.575 1.1
+$EndPAD
+$PAD
+Sh "6" R 0.9 0.85 0 0 0
+At SMD N 00888000
+.SolderMask 0
+Ne 0 ""
+Po 8.575 2.6
+$EndPAD
+$PAD
+Sh "7" R 0.9 0.85 0 0 0
+At SMD N 00888000
+.SolderMask 0
+Ne 0 ""
+Po 8.575 4.1
+$EndPAD
+$PAD
+Sh "8" R 0.9 0.85 0 0 0
+At SMD N 00888000
+.SolderMask 0
+Ne 0 ""
+Po 8.575 5.6
+$EndPAD
+$PAD
+Sh "9" R 0.9 0.85 0 0 0
+At SMD N 00888000
+.SolderMask 0
+Ne 0 ""
+Po 8.575 7.1
+$EndPAD
+$PAD
+Sh "10" R 0.9 0.85 0 0 0
+At SMD N 00888000
+.SolderMask 0
+Ne 0 ""
+Po -8.575 7.1
+$EndPAD
+$PAD
+Sh "11" R 0.9 0.85 0 0 0
+At SMD N 00888000
+.SolderMask 0
+Ne 0 ""
+Po -8.575 5.6
+$EndPAD
+$PAD
+Sh "12" R 0.9 0.85 0 0 0
+At SMD N 00888000
+.SolderMask 0
+Ne 0 ""
+Po -8.575 4.1
+$EndPAD
+$PAD
+Sh "13" R 0.9 0.85 0 0 0
+At SMD N 00888000
+.SolderMask 0
+Ne 0 ""
+Po -8.575 2.6
+$EndPAD
+$PAD
+Sh "14" R 0.9 0.85 0 0 0
+At SMD N 00888000
+.SolderMask 0
+Ne 0 ""
+Po -8.575 1.1
+$EndPAD
+$PAD
+Sh "15" R 0.9 0.85 0 0 0
+At SMD N 00888000
+.SolderMask 0
+Ne 0 ""
+Po -8.575 -0.4
+$EndPAD
+$PAD
+Sh "16" R 0.9 0.85 0 0 0
+At SMD N 00888000
+.SolderMask 0
+Ne 0 ""
+Po -8.575 -1.9
+$EndPAD
+$PAD
+Sh "17" R 0.9 0.85 0 0 0
+At SMD N 00888000
+.SolderMask 0
+Ne 0 ""
+Po -8.575 -3.4
+$EndPAD
+$PAD
+Sh "18" R 0.9 0.85 0 0 0
+At SMD N 00888000
+.SolderMask 0
+Ne 0 ""
+Po -8.575 -4.9
+$EndPAD
+$EndMODULE BACK-FACE

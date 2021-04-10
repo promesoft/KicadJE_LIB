@@ -1,0 +1,414 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 2N7002K
+D Nch MOS-FET
+F https://www.fairchildsemi.co.jp/datasheets/2N/2N7002K.pdf
+$ENDCMP
+#
+$CMP 74HC30
+D 8-input NAND gate
+$ENDCMP
+#
+$CMP 74HC574
+D Octal D-type flip-flop; positive edge-trigger; 3-state
+$ENDCMP
+#
+$CMP AM232x
+D Temp and Relative Humidity Sensor
+K temp humidity sensor I2C
+$ENDCMP
+#
+$CMP AQM0802A-RN-GBW
+D LCD, I2C
+K LCD I2C
+F http://akizukidenshi.com/download/ds/xiamen/AQM0802.pdf
+$ENDCMP
+#
+$CMP ATMEGA168A-MU
+D ATMEG168A, QFN/MLF32, 16k Flash, 1kB SRAM, 512B EEPROM
+K AVR 8bit Microcontroller MegaAVR
+F http://www.atmel.com/images/atmel-8271-8-bit-avr-microcontroller-atmega48a-48pa-88a-88pa-168a-168pa-328-328p_datasheet.pdf
+$ENDCMP
+#
+$CMP ATMEGA168PA-MU
+D ATMEGA168PA, QFN/MLF32, 16k Flash, 1kB SRAM, 512B EEPROM, picoPower
+K AVR 8bit Microcontroller MegaAVR
+F http://www.atmel.com/images/atmel-8271-8-bit-avr-microcontroller-atmega48a-48pa-88a-88pa-168a-168pa-328-328p_datasheet.pdf
+$ENDCMP
+#
+$CMP ATMEGA168PB-AU
+D ATMEGA168PB, TQFP32, 16k Flash, 1kB SRAM, 512B EEPROM
+K AVR 8bit Microcontroller MegaAVR
+F http://www.atmel.com/ja/jp/Images/Atmel-42176-ATmega48PB-88PB-168PB_Datasheet.pdf
+$ENDCMP
+#
+$CMP ATMEGA16U2-AU
+D ATMEGA16U2, TQFP32, 16k Flash, 512B SRAM, 512B EEPROM, USB 2.0
+K AVR 8bit Microcontroller USB
+F http://www.atmel.com/images/doc7799.pdf
+$ENDCMP
+#
+$CMP ATMEGA328-MU
+D ATMEGA328, QFN/MLF32, 32k Flash, 2kB SRAM, 1kB EEPROM
+K AVR 8bit Microcontroller MegaAVR
+F http://www.atmel.com/images/atmel-8271-8-bit-avr-microcontroller-atmega48a-48pa-88a-88pa-168a-168pa-328-328p_datasheet.pdf
+$ENDCMP
+#
+$CMP ATMEGA328P-MU
+D ATMEGA328P, QFN/MLF32, 32k Flash, 2kB SRAM, 1kB EEPROM, picoPower
+K AVR 8bit Microcontroller MegaAVR
+F http://www.atmel.com/images/atmel-8271-8-bit-avr-microcontroller-atmega48a-48pa-88a-88pa-168a-168pa-328-328p_datasheet.pdf
+$ENDCMP
+#
+$CMP ATMEGA32U2-AU
+D ATMEGA32U2, TQFP32, 32k Flash, 1kB SRAM, 1kB EEPROM, USB 2.0
+K AVR 8bit Microcontroller USB
+F http://www.atmel.com/images/doc7799.pdf
+$ENDCMP
+#
+$CMP ATMEGA48A-MU
+D ATMEGA48A, QFN/MLF32, 4k Flash, 512B SRAM, 256B EEPROM
+K AVR 8bit Microcontroller MegaAVR
+F http://www.atmel.com/images/atmel-8271-8-bit-avr-microcontroller-atmega48a-48pa-88a-88pa-168a-168pa-328-328p_datasheet.pdf
+$ENDCMP
+#
+$CMP ATMEGA48PA-CCU
+D ATMEGA48PA, FBGA32, 4k Flash, 512B SRAM, 256B EEPROM
+K AVR 8bit Microcontroller MegaAVR PicoPower
+F http://www.atmel.com/images/atmel-8271-8-bit-avr-microcontroller-atmega48a-48pa-88a-88pa-168a-168pa-328-328p_datasheet.pdf
+$ENDCMP
+#
+$CMP ATMEGA48PA-MU
+D ATMEGA48PA, QFN/MLF32, 4k Flash, 512B SRAM, 256B EEPROM, picoPower
+K AVR 8bit Microcontroller MegaAVR
+F http://www.atmel.com/images/atmel-8271-8-bit-avr-microcontroller-atmega48a-48pa-88a-88pa-168a-168pa-328-328p_datasheet.pdf
+$ENDCMP
+#
+$CMP ATMEGA48PB-AU
+D ATMEGA48PB, TQFP32, 4k Flash, 512B SRAM, 256B EEPROM
+K AVR 8bit Microcontroller MegaAVR PicoPower
+F http://www.atmel.com/ja/jp/Images/Atmel-42176-ATmega48PB-88PB-168PB_Datasheet.pdf
+$ENDCMP
+#
+$CMP ATMEGA88A-MU
+D ATMEG88A, QFN/MLF32, 8k Flash, 1kB SRAM, 512B EEPROM
+K AVR 8bit Microcontroller MegaAVR
+F http://www.atmel.com/images/atmel-8271-8-bit-avr-microcontroller-atmega48a-48pa-88a-88pa-168a-168pa-328-328p_datasheet.pdf
+$ENDCMP
+#
+$CMP ATMEGA88PA-MU
+D ATMEGA88PA, QFN/MLF32, 8k Flash, 1kB SRAM, 512B EEPROM, picoPower
+K AVR 8bit Microcontroller MegaAVR
+F http://www.atmel.com/images/atmel-8271-8-bit-avr-microcontroller-atmega48a-48pa-88a-88pa-168a-168pa-328-328p_datasheet.pdf
+$ENDCMP
+#
+$CMP ATMEGA88PB-AU
+D ATMEGA88PB, QFN/MLF32, 8k Flash, 1kB SRAM, 512B EEPROM, picoPower
+K AVR 8bit Microcontroller MegaAVR
+F http://www.atmel.com/images/atmel-8271-8-bit-avr-microcontroller-atmega48a-48pa-88a-88pa-168a-168pa-328-328p_datasheet.pdf
+$ENDCMP
+#
+$CMP ATMEGA8U2-AU
+D ATMEGA8U2, TQFP32, 8k Flash, 512B SRAM, 512B EEPROM, USB 2.0
+K AVR 8bit Microcontroller USB
+F http://www.atmel.com/images/doc7799.pdf
+$ENDCMP
+#
+$CMP ATTINY441-SSU
+D ATTINY441-SSU, SO14, 4k Flash, 256B SRAM, 256B EEPROM, ADC, ACI, dW
+K AVR 8bit Microcontroller tinyAVR
+F http://www.atmel.com/Images/Atmel-8495-8-bit-AVR-Microcontrollers-ATtiny441-ATtiny841_Datasheet.pdf
+$ENDCMP
+#
+$CMP ATTINY841-SSU
+D ATTINY841-SSU, SO14, 8k Flash, 512B SRAM, 512B EEPROM, ADC, ACI, dW
+K AVR 8bit Microcontroller tinyAVR
+F http://www.atmel.com/Images/Atmel-8495-8-bit-AVR-Microcontrollers-ATtiny441-ATtiny841_Datasheet.pdf
+$ENDCMP
+#
+$CMP ATXMEGA128D4-AU
+D ATXMEGA128D4, TQFP44, 128k Flash, 8k Boot, 8k SRAM, 2k EEPROM, JTAG
+K AVR 8/16bit Microcontroller XMegaAVR
+F http://www.atmel.com/Images/Atmel-8135-8-and-16-bit-AVR-microcontroller-ATxmega16D4-32D4-64D4-128D4_datasheet.pdf
+$ENDCMP
+#
+$CMP ATXMEGA128D4-MH
+D ATXMEGA128D4, VGNF44, 128k Flash, 8k Boot, 8k SRAM, 2k EEPROM, JTAG
+K AVR 8/16bit Microcontroller XMegaAVR
+F http://www.atmel.com/Images/Atmel-8135-8-and-16-bit-AVR-microcontroller-ATxmega16D4-32D4-64D4-128D4_datasheet.pdf
+$ENDCMP
+#
+$CMP ATXMEGA16D4-AU
+D ATXMEGA16D4, TQFP44, 16k Flash, 4k Boot, 2k SRAM, 1k EEPROM, JTAG
+K AVR 8/16bit Microcontroller XMegaAVR
+F http://www.atmel.com/Images/Atmel-8135-8-and-16-bit-AVR-microcontroller-ATxmega16D4-32D4-64D4-128D4_datasheet.pdf
+$ENDCMP
+#
+$CMP ATXMEGA16D4-MH
+D ATXMEGA16D4, VQNF44, 16k Flash, 4k Boot, 2k SRAM, 1k EEPROM, JTAG
+K AVR 8/16bit Microcontroller XMegaAVR
+F http://www.atmel.com/Images/Atmel-8135-8-and-16-bit-AVR-microcontroller-ATxmega16D4-32D4-64D4-128D4_datasheet.pdf
+$ENDCMP
+#
+$CMP ATXMEGA32D4-AU
+D ATXMEGA32D4, TQFP44, 32k Flash, 4k Boot, 4k SRAM, 1k EEPROM, JTAG
+K AVR 8/16bit Microcontroller XMegaAVR
+F http://www.atmel.com/Images/Atmel-8135-8-and-16-bit-AVR-microcontroller-ATxmega16D4-32D4-64D4-128D4_datasheet.pdf
+$ENDCMP
+#
+$CMP ATXMEGA32D4-MH
+D ATXMEGA32D4, VQNF44, 32k Flash, 4k Boot, 4k SRAM, 1k EEPROM, JTAG
+K AVR 8/16bit Microcontroller XMegaAVR
+F http://www.atmel.com/Images/Atmel-8135-8-and-16-bit-AVR-microcontroller-ATxmega16D4-32D4-64D4-128D4_datasheet.pdf
+$ENDCMP
+#
+$CMP ATXMEGA64D4-AU
+D ATXMEGA64D4, TQFP44, 64k Flash, 4k Boot, 4k SRAM, 2k EEPROM, JTAG
+K AVR 8/16bit Microcontroller XMegaAVR
+F http://www.atmel.com/Images/Atmel-8135-8-and-16-bit-AVR-microcontroller-ATxmega16D4-32D4-64D4-128D4_datasheet.pdf
+$ENDCMP
+#
+$CMP ATXMEGA64D4-MH
+D ATXMEGA64D4, VGNF44, 64k Flash, 4k Boot, 4k SRAM, 2k EEPROM, JTAG
+K AVR 8/16bit Microcontroller XMegaAVR
+F http://www.atmel.com/Images/Atmel-8135-8-and-16-bit-AVR-microcontroller-ATxmega16D4-32D4-64D4-128D4_datasheet.pdf
+$ENDCMP
+#
+$CMP AYBG1202W
+D Two color LED, Yellow and Green
+K LED
+F http://akizukidenshi.com/catalog/g/gI-05678/
+$ENDCMP
+#
+$CMP BITMAP_IMAGE
+D Bitmap image
+$ENDCMP
+#
+$CMP BSS138
+D Nch MOS-FET
+F http://www.fairchildsemi.co.jp/ds/BS/BSS138.pdf
+$ENDCMP
+#
+$CMP CONN_AVR_ISP
+D AVR ISP 6P terminal
+K AVR Atmega ISP 6P
+F http://www.atmel.com/images/doc0943.pdf
+$ENDCMP
+#
+$CMP CP
+D Polarised capacitor
+$ENDCMP
+#
+$CMP Cds
+D Cds
+K Cds
+$ENDCMP
+#
+$CMP DIP_SW4
+D DIP SWITCH, 4 units
+$ENDCMP
+#
+$CMP DIP_SW5
+D DIP SWITCH, 5 units
+$ENDCMP
+#
+$CMP DIP_SW8
+D DIP SWITCH, 8 units
+$ENDCMP
+#
+$CMP DS1307
+D Real Time Clock
+K RTC
+F http://akizukidenshi.com/download/ds/maxim/DS1307.pdf
+$ENDCMP
+#
+$CMP EX03
+D Clock Crystal Oscillator
+K Crystal Oscillator
+F http://akizukidenshi.com/download/ds/etc/EXO3-12MHz.pdf
+$ENDCMP
+#
+$CMP FDC6305N
+D Dual Nch MOS-FET
+K Nch MOS FET
+F http://akizukidenshi.com/download/ds/fairchild/FDC6305N.pdf
+$ENDCMP
+#
+$CMP FT230SX
+D USB to serail UART
+K USB, UART, Serial, SSOP
+F http://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT230X.pdf
+$ENDCMP
+#
+$CMP FT231XQ
+D USB to serial UART
+K USB, UART, Serial, QFN
+F http://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT231X.pdf
+$ENDCMP
+#
+$CMP FT231XS
+D USB to serail UART
+K USB, UART, Serial, SSOP
+F http://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT231X.pdf
+$ENDCMP
+#
+$CMP FT234XD
+D USB to serial UART
+K USB, UART, Serial, DFN
+F http://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT234XD.pdf
+$ENDCMP
+#
+$CMP FT240XS
+D FTDI USB 8-BIT FIFO
+K USB FIFO
+F http://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT240X.pdf
+$ENDCMP
+#
+$CMP IRLML6344
+D Nch MOS-FET
+K Nch MOS FET
+F http://www.irf.com/product-info/datasheets/data/irlml6344pbf.pdf
+$ENDCMP
+#
+$CMP IRLML6402
+D Pch MOS-FET
+F http://www.irf.com/product-info/datasheets/data/irlml6402pbf.pdf
+$ENDCMP
+#
+$CMP KM-23YSGC
+D Two color LED, Yellow and Green
+K LED, SOT-23
+F http://akizukidenshi.com/download/ds/kingbright/KM-23YSGC(Ver.6B).pdf
+$ENDCMP
+#
+$CMP LED_WITH_R
+D LED with R
+K LED
+$ENDCMP
+#
+$CMP M68AF127B
+D 1Mbit (128K x8), 5V Asynchronous SRAM
+$ENDCMP
+#
+$CMP MAX31855
+D Thermocouple-to-Digital Converter
+K SPI
+F http://datasheets.maximintegrated.com/en/ds/MAX31855.pdf
+$ENDCMP
+#
+$CMP NJM2865F33
+D LDO Regulator, +3.3V 100 mA
+K LDO Regulator, +3.3V, 100mA, SOT-23-5
+F http://semicon.njr.co.jp/jpn/PDF/NJM2865_NJM2866_J.pdf
+$ENDCMP
+#
+$CMP NJM2866F33
+D LDO Regulator, +3.3V 100 mA
+K LDO Regulator, +3.3V, 100mA, SOT-23-5
+F http://semicon.njr.co.jp/jpn/PDF/NJM2865_NJM2866_J.pdf
+$ENDCMP
+#
+$CMP OSL40562
+D 7segment LED, common cathode
+$ENDCMP
+#
+$CMP OSTB0603C1C-A
+D LED RGB Anode common
+F http://akizukidenshi.com/download/ds/optosupply/OSTB0603C1C-A.pdf
+$ENDCMP
+#
+$CMP OSxx1608
+D LED
+K LED, 1608
+F http://akizukidenshi.com/download/ds/optosupply/OSXX1608C1A_ver.a.6.pdf
+$ENDCMP
+#
+$CMP PCC-OST-SMP-K
+D Thermocouple Connector, TypeK
+F http://strawberry-linux.com/pub/PCC-OST-SMP.pdf
+$ENDCMP
+#
+$CMP PIEZO_SOUNDER
+D Piezo sounder
+K Piezo sounder, speaker
+$ENDCMP
+#
+$CMP PL-IRM0101
+D Infrared Receiver Module
+K IR remote contoroller
+$ENDCMP
+#
+$CMP Photo_transitor
+D Photo transistor
+K photo transistor
+$ENDCMP
+#
+$CMP RN4020
+D Bluetooth Low Energy Module
+K BLE
+F http://www.microchip.com/wwwproducts/Devices.aspx?product=RN4020
+$ENDCMP
+#
+$CMP RN42
+D Bluetooth 2.1+EDR module
+F http://www.microchip.com/wwwproducts/Devices.aspx?product=RN42
+$ENDCMP
+#
+$CMP SG8002DC
+D crystal oscillator, 5V
+F http://akizukidenshi.com/download/SG-8002DC.pdf
+$ENDCMP
+#
+$CMP SHT30-DIS
+D Humidity sensor, Sensirion
+K humidity sensor, I2C
+F http://www.sensirion.com/fileadmin/user_upload/customers/sensirion/Dokumente/Humidity/Sensirion_Humidity_SHT3x_Datasheet_digital.pdf
+$ENDCMP
+#
+$CMP SLIDE_SWITCH_2-3
+D slide switch, 6P
+$ENDCMP
+#
+$CMP SLIDE_SWITCH_6P
+D slide switch, 6P
+$ENDCMP
+#
+$CMP SO1602A
+D OLED Charactor Display, I2C
+K OLED Display I2C
+$ENDCMP
+#
+$CMP Si7020
+D Humidity sensor, Silicon Labs
+K Humidity sensor, I2C
+F http://www.silabs.com/Support%20Documents/TechnicalDocs/Si7020.pdf
+$ENDCMP
+#
+$CMP TAR5SB33
+D LDO Regulator, +3.3V 200 mA
+K LDO Regulator, +3.3V, 200mA, SOT-25
+F http://www.semicon.toshiba.co.jp/info/docget.jsp?type=datasheet&lang=en&pid=TAR5SB33
+$ENDCMP
+#
+$CMP Tactile_SW_4P
+D Push Button
+K Switch
+$ENDCMP
+#
+$CMP USB-micro-B
+D USB Micro B connector
+K USB Micro B, USB
+$ENDCMP
+#
+$CMP Z84C00PEG
+D Zilog CMOS Z80 CPU
+K Z80
+F http://www.zilog.com/docs/z80/ps0178.pdf
+$ENDCMP
+#
+$CMP Z8S180
+D Zilog Z8S180 CPU
+F http://www.zilog.com/docs/z180/z8s180ps.pdf
+$ENDCMP
+#
+#End Doc Library
