@@ -24,3 +24,7 @@ fp-info-cache
 # Exported BOM files
 *.xml
 *.csv
+aj_footprints/kicad-library/
+aj_packages3d/kicad-packages3D/
+kicad-footprints/
+kicad-symbols/
