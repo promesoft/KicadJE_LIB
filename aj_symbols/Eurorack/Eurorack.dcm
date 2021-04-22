@@ -5,3 +5,5 @@ D Rotary encoder, dual channel, incremental quadrate outputs, with switch
 K rotary switch encoder switch push button
 F ~
 $ENDCMP
+#
+#End Doc Library
